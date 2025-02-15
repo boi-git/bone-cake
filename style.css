@@ -1,4 +1,4 @@
-section {
+:root {
     --main-bg-color: brown;
     --main-font-color: red;
     --main-button-color: green;
@@ -13,6 +13,7 @@ section {
 .color-1{
     width: 100px;
     height: 100px;
+    
 }
 .color-2{
     width: 100px;
