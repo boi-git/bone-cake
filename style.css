@@ -13,21 +13,30 @@
 .color-1{
     width: 100px;
     height: 100px;
+    background-color: var(--main-bg-color);
     
 }
 .color-2{
     width: 100px;
     height: 100px;
+    background-color: var(--main-font-color);
+    
 }
 .color-3{
     width: 100px;
     height: 100px;
+    background-color: var(--main-button-color);
+
 }
 .color-4{
     width: 100px;
     height: 100px;
-}
+    background-color: var(--main-header-color);
+
+}   
 .color-5{
     width: 100px;
     height: 100px;
+    background-color: var(--main-card-color);
+
 }
