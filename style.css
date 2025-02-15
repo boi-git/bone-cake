@@ -1,0 +1,19 @@
+section {
+    --main-bg-color: brown;
+}
+
+section {
+    --main-font-color: red;
+}
+
+section {
+    --main-button-color: green;
+}
+
+section {
+    --main-header-color: yellow;
+}
+
+section {
+    --main-card-color: blue;
+}
